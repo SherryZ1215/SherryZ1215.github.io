@@ -1,0 +1,26 @@
+[
+   {
+      "GroupName" : "dogbody",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "body_1.json"
+   },
+   {
+      "GroupName" : "bladder",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "bladder_1.json"
+   },
+   {
+      "GroupName" : "spleen",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "spleen_1.json"
+   }
+]
