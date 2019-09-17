@@ -23,4 +23,12 @@
       "Type" : "Surfaces",
       "URL" : "spleen_1.json"
    }
+   {
+      "GroupName" : "liver",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "liver_1.json"
+   }
 ]
