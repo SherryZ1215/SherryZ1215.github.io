@@ -31,4 +31,12 @@
       "Type" : "Surfaces",
       "URL" : "liver_1.json"
    }
+   {
+      "GroupName" : "femur",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "femur_1.json"
+   }
 ]
