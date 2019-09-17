@@ -40,6 +40,14 @@
       "URL" : "femur_1.json"
    },
    {
+      "GroupName" : "fibula",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "fibula_1.json"
+   },
+   {
       "GroupName" : "PV",
       "MorphColours" : false,
       "MorphNormals" : false,
