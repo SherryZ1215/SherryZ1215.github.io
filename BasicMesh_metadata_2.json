@@ -46,5 +46,13 @@
       "MorphVertices" : false,
       "Type" : "Surfaces",
       "URL" : "PV_1.json"
+   },
+   {
+      "GroupName" : "aorta",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "aorta_1.json"
    }
 ]
