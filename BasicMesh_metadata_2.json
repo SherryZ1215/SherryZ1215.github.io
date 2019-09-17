@@ -5,7 +5,7 @@
       "MorphNormals" : false,
       "MorphVertices" : false,
       "Type" : "Surfaces",
-      "URL" : "body_1.json"
+      "URL" : "whole_body_1.json"
    },
    {
       "GroupName" : "bladder",
@@ -22,21 +22,5 @@
       "MorphVertices" : false,
       "Type" : "Surfaces",
       "URL" : "spleen_1.json"
-   }
-   {
-      "GroupName" : "liver",
-      "MorphColours" : false,
-      "MorphNormals" : false,
-      "MorphVertices" : false,
-      "Type" : "Surfaces",
-      "URL" : "liver_1.json"
-   }
-   {
-      "GroupName" : "femur",
-      "MorphColours" : false,
-      "MorphNormals" : false,
-      "MorphVertices" : false,
-      "Type" : "Surfaces",
-      "URL" : "femur_1.json"
    }
 ]
