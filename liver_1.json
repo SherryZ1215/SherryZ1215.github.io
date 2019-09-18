@@ -9,7 +9,7 @@
 	"DbgIndex" : 0,
 	"DbgName" : "my_material",
 	"colorDiffuse" : [83, 75, 79],
-	"colorSpecular" : [83, 75, 79],
+	"colorSpecular" : [0, 0, 0],
 	"shading" : "Phong",
 	"specularCoef" : 0,
 	"opacity" : 1,
