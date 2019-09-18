@@ -5,11 +5,11 @@
 	},
 	
 	"materials" : [ {
-	"DbgColor" : 15658734,
+	"DbgColor" : 16711680,
 	"DbgIndex" : 0,
 	"DbgName" : "my_material",
-	"colorDiffuse" : [255, 0, 0],
-	"colorSpecular" : [255, 0, 0],
+	"colorDiffuse" : [0, 0, 0],
+	"colorSpecular" : [0, 0, 0],
 	"shading" : "Phong",
 	"specularCoef" : 0,
 	"opacity" : 1,
