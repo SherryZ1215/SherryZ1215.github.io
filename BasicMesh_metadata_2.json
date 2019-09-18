@@ -78,5 +78,13 @@
       "MorphVertices" : false,
       "Type" : "Surfaces",
       "URL" : "muscle1_1.json"
+   },
+   {
+      "GroupName" : "m2",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "muscle2_1.json"
    }
 ]
