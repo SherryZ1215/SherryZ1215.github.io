@@ -48,6 +48,14 @@
       "URL" : "fibula_1.json"
    },
    {
+      "GroupName" : "tibia",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "tibia_1.json"
+   },
+   {
       "GroupName" : "PV",
       "MorphColours" : false,
       "MorphNormals" : false,
