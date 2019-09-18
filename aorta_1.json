@@ -5,7 +5,7 @@
 	},
 	
 	"materials" : [ {
-	"DbgColor" : 15658734,
+	"DbgColor" : 14632261,
 	"DbgIndex" : 0,
 	"DbgName" : "my_material",
 	"colorDiffuse" : [230, 55, 55],
