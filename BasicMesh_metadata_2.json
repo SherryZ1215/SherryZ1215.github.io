@@ -5,7 +5,7 @@
       "MorphNormals" : false,
       "MorphVertices" : false,
       "Type" : "Surfaces",
-      "URL" : "dogbody_1.json"
+      "URL" : "dogbody_test.json"
    },
    {
       "GroupName" : "bladder",
