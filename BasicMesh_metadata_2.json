@@ -16,6 +16,14 @@
       "URL" : "stomach_1.json"
    },
    {
+      "GroupName" : "intestine",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "intestine_1.json"
+   },
+   {
       "GroupName" : "bladder",
       "MorphColours" : false,
       "MorphNormals" : false,
