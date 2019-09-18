@@ -5,7 +5,7 @@
       "MorphNormals" : false,
       "MorphVertices" : false,
       "Type" : "Surfaces",
-      "URL" : "dogbody_test.json"
+      "URL" : "dogbody_1.json"
    },
    {
       "GroupName" : "bladder",
@@ -94,5 +94,13 @@
       "MorphVertices" : false,
       "Type" : "Surfaces",
       "URL" : "muscle3_1.json"
+   },
+   {
+      "GroupName" : "m4",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "muscle4_1.json"
    }
 ]
