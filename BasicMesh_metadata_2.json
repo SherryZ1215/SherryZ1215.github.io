@@ -8,6 +8,14 @@
       "URL" : "dogbody_1.json"
    },
    {
+      "GroupName" : "stomach",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "stomach_1.json"
+   },
+   {
       "GroupName" : "bladder",
       "MorphColours" : false,
       "MorphNormals" : false,
