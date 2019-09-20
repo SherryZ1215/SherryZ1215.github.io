@@ -48,6 +48,14 @@
       "URL" : "liver_1.json"
    },
    {
+      "GroupName" : "kidney",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "kidney_1.json"
+   },
+   {
       "GroupName" : "femur",
       "MorphColours" : false,
       "MorphNormals" : false,
