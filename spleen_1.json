@@ -1,8 +1,7 @@
 {
 	"metadata" : {
 		"formatVersion" : 3,
-		"description" : "Exported from LibZinc.",
-		"color":[246, 143, 118]
+		"description" : "Exported from LibZinc."
 	},
 	
 	"materials" : [ {
